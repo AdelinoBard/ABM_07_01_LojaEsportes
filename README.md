@@ -17,6 +17,8 @@ Este projeto foi atualizado para .NET 8.0, garantindo compatibilidade com a vers
 - Entity Framework Core – ORM para acesso a dados
 - SQL Server LocalDB – Banco de dados local
 - Bootstrap – Estilização da interface
+- MOQ – Framework para mocking em testes
+- xUnit – Framework para testes unitários
 
 ### Funcionalidades Implementadas
 - Infraestrutura central do aplicativo
